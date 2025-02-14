@@ -1,12 +1,12 @@
-//import './01/style.css'
+import './index.css'
 import { createRoot } from 'react-dom/client'
 
-import App0004 from './04/App0004.tsx'
+import App0005 from './05/App0005'
 
 
 
 createRoot(document.getElementById('root')!).render(
   
-    <App0004 />
+    <App0005 />
   
 )
