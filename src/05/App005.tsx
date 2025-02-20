@@ -10,7 +10,11 @@ export default function App05(){
 
               <div className="bg-white rounded-lg shadow w-100 h-100 flex flex-col">
                     <div className="h-8"></div>
-                    <div className="bg-yellow-100 flex-1"></div>
+
+                    <div className="bg-yellow-100 flex-1">
+                        
+                    </div>
+                  
                     <div className="h-8 flex items-center pv-2">
                             <div className=" flex  w-1/2 space-x-2">
                                 <FaRegHeart/>
