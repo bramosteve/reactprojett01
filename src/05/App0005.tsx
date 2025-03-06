@@ -12,7 +12,7 @@ export default function App02() {
     const [liked, setLiked] = useState(false);
 
     return (
-        <div className="bg-blue-100 w-screen h-screen flex items-center place-content-center">
+        <div className="">
             <div className="bg-white rounded-lg shadow w-44 h-72 flex flex-col">
                 <div className="h-8"></div>
                 <div className="bg-yellow-100 flex-1"></div>
